@@ -5,7 +5,7 @@ Built with [LangChain](https://github.com/hwchase17/langchain) and [GPT4All](htt
 
 
 
-# Environment Setup
+# Environment Setup...
 
 In order to set your environment up to run the code here, first install all requirements:
 
